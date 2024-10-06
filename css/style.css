@@ -75,7 +75,7 @@ h6 {
 }
 
 #header.header-scrolled {
-    background: rgba(63, 105, 170, .9);
+    background: rgba(0, 0, 0, 0.9);
     padding: 10px 0;
     height: 72px;
     transition: all 0.5s;
@@ -136,7 +136,7 @@ h6 {
 
 .nav-menu li:hover > a,
 .nav-menu > .menu-active > a {
-    color: #000000;
+    color: #fff705;
 }
 
 .nav-menu li:hover > a::after,
